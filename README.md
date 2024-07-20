@@ -148,7 +148,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/tusharkumar200/tusharkumar200/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Tusharkumar200/Tusharkumar200/output/snake.svg" alt="Snake animation" />
 
 ###
 
