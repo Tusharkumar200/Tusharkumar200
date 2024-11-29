@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">Hi, I am<br>Tushar Kumar<br>I am a Full Stack  Developer <br>Enthusiastic and dedicated web developer actively expanding skills through self-directed learning. Eager to contribute to dynamic projects, collaborate with experienced professionals, and leverage a solid foundation in web development technologies.</p>
+<p align="left">Hi, I am<br>Tushar Kumar<br>I am a passionate Computer Science and Engineering student currently in my pre-final year (Class of 2026). With hands-on experience as an intern at EduNet, I have honed my skills in Full Stack Web Development,</p>
 
 ###
 
