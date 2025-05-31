@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">Hi, I am<br>Tushar Kumar<br>I am a passionate Computer Science and Engineering student currently in my pre-final year (Class of 2026). With hands-on experience as an intern at EduNet, I have honed my skills in Full Stack Web Development,</p>
+<p align="left">Hi, I am<br>Tushar Kumar<br>I am a passionate Computer Science and Engineering student currently in my final year (Batch of 2026). With hands-on experience as an intern at EduNet, I have honed my skills in Full Stack Web Development,</p>
 
 ###
 
