@@ -17,12 +17,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tusharkumar200/count.svg?"  />
-</div>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
